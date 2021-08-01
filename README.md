@@ -1,83 +1,94 @@
-# Bio
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=069F2A&size=16&height=21&lines=Welcome+stranger!+%F0%9F%91%8B)](https://git.io/typing-svg)
-#### My name is Michael and I am a HVAC Intermediate Engineer who is aspiring Junior Software Developer.
-
-![GitHub followers](https://img.shields.io/github/followers/MichaelPGudz?style=social)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=DA832B&size=30&width=600&lines=Welcome+stranger!++%F0%9F%91%8B)](https://git.io/typing-svg)
+#### My name is Michael and I am a HVAC Intermediate Engineer who is an aspiring Junior Software Developer. I am interested in learning new technologies and love to develop by challenging myself. 
 
 - 🔭 I’m currently working on [Team Cool Project](https://github.com/MichaelPGudz/TeamCool).
 - 🌱 I’m currently learning React & ASP\.NET Core.
-- ⚡ Fun fact: 
+- 👯 I’m looking to collaborate on my first commercial project.
+- 📫 How to reach me: See the [Contact](#contact) section below.
+- ⚡ My hobbies: Motorcycling 🏍️, Playing Guitar 🎸, Cooking 🥣.
 
-# Stack
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-    <img height="40" height="40" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-   <img height="40" alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-   <img height="40" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img height="40" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img height="40" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</p>
+# My Skill Set  
+<table><tr><td valign="top" width="33%">
+<div align="center">
 
-<h3 align="center">Frameworks, Libraries</h3>
-<p align="center">
-    <img height="40" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-    <img height="40" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img height="40" alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white">
-   <img height="40" alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-    <img height="40" alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-    <img height="40" alt="Psycopg" src="https://img.shields.io/static/v1?style=for-the-badge&color=gray&label=&message=psycopg&logo=psycopg&logoColor=white" />
-    <img height="40" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+### Frontend  
+</div>
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://material-ui.com/static/logo_raw.svg" alt="Material-UI" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+</div>
 
-<h3 align="center">Databases</h3>
-<p align="center">
-    <img height="40" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-    <img height="40" alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img height="40" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+</td><td valign="top" width="33%">
 
-<h3 align="center">Version control</h3>
-<p align="center">
-    <img height="40" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-    <img height="40" alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-    <img height="40" alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">
-</p>
+<div align="center">
 
-<h3 align="center">IDEs</h3>
-<p align="center">
-    <img height="40" alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-    <img height="40" alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    <img height="40" alt="Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson">
-   <img height="40" alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-</p>
+### Backend  
+</div>
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.svg" alt=".NET" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png" alt="Microsoft SQL Server" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+</div>
 
-<h3 align="center">Operating Systems</h3>
-<p align="center">
-    <img height="40" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-    <img height="40" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-</p>
+</td><td valign="top" width="33%">
 
-<h3 align="center">Others</h3>
-<p align="center">
-    <img height="40" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img height="40" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red"/>
-</p>
 
-# Stats
-<p align="center">
+<div align="center">
+
+### Other  
+</div>
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" alt="Windows" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px"  src="https://user-images.githubusercontent.com/60321212/127782978-eb871c7c-9969-4d1f-a426-8bcb41f9a80a.png" alt="GitHub" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/60321212/127753588-7689e407-8814-48cd-88ef-6db8a7f23d5e.jpg" alt="Bitbucket" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/60321212/127753776-14c4a00f-b918-4f65-b1d3-3cba6a39d85d.png" alt="Postman" height="50" />  
+</div>
+
+</td></tr>
+
+<tr><td colspan="5" valign="top">
+<div align="center">
+
+### Tools
+</div>
+<div align="center">  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/60321212/127753658-cd70e0e9-c92a-4f11-8b2b-47316521932a.png" alt="Visual Studio" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/60321212/127753734-75fabe93-3066-4978-a93e-f2986932346c.png" alt="Rider" height="50" />    
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" height="50" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+# Github Stats
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=michaelpgudz&&show_icons=true&title_color=ff850a&icon_color=f58522&text_color=c9fdff&bg_color=2150ad">
-</p>
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelpgudz&layout=compact">
+</div>
 
 # Contact
 ##### You can contact me through:
-<p align="center">
+<div align="center">
     <a href="mailto:michaelp.gudz@gmail.com?subject=MichaelPGudz%20Github%20Repository&body=Hi Michael,%0D%0AI saw your Repository">
-    <img height="40" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img height="60" alt="Gmail" src="https://user-images.githubusercontent.com/60321212/127753913-10224d1d-3930-425b-8b03-97a8834c8fb0.png">
     </a>
     <a href="https://www.linkedin.com/in/michael-gudz-3904b9175/">
-        <img height="40" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img height="60" alt="LinkedIn" src="https://user-images.githubusercontent.com/60321212/127753939-cdfda91b-83b4-4a7d-96a2-af53e47859b3.png"/>
     </a>
-    <a href="https://app.slack.com/messages/D015S3S1M1A">
-        <img height="40" alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-    </a> 
-</p>
-
+</div>
